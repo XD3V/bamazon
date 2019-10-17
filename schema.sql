@@ -13,7 +13,7 @@ stock_quantity int NOT NULL,
 primary key (item_id)
 ); 
 
-INSERT INTO products(product_name, department_name, price, stock_quantity)
+INSERT INTO products (product_name, department_name, price, stock_quantity)
 
 values 
 ('americano', 'drinks', 2.45,200),
