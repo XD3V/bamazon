@@ -6,4 +6,10 @@
 ####  Make sure you save and require the MySQL and Inquirer npm packages in your homework files--your app will need them for data input and storage.
 
 
-### 
+# ![Object data](object-data.JPG)
+
+
+#### Users prompt for asking questions
+
+
+# ![Customer Prompt](customerprompt.JPG)
